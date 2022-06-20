@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hilt</string>
+    <string name="inject_string_1">This is string one</string>
+    <string name="inject_string_2">This is string two</string>
+</resources>
